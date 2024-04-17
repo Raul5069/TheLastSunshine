@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\the sulis last sunshine\\The Last Sunshine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|d:\\the sulis last sunshine\\the last sunshine\\assets\\scripts\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|d:\\the sulis last sunshine\\the last sunshine\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\scripts\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\scripts\\zombieattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\scripts\\zombiespawnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiespawnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\scripts\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\scripts\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\SaveLoadManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SaveLoadManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\scripts\\zombieidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A682-AEC8-76DA-F57E-BE99BD3280BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\zombieattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\zombieattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\the sulis last sunshine\\The Last Sunshine\\assets\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MySQL.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\MySQL.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MySQL.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\MySQL.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MySQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:01:16.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:30:22.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoadManager.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\SaveLoadManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoadManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:46:22.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZombieSpawnerController.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\ZombieSpawnerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieSpawnerController.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\ZombieSpawnerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieSpawnerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:12:03.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAIwJEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:42:14.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZombieAttackState.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\ZombieAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAttackState.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\ZombieAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAttackState.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:19:13.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowFoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:31:35.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zombie.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zombie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:38:29.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HUDManager.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\HUDManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUDManager.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\HUDManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUDManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:46:49.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ZombieIdleState.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\ZombieIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieIdleState.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\Scripts\\ZombieIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieIdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:45:20.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SaveLoadManager.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\SaveLoadManager.cs",
+              "RelativeToolTip": "Assets\\SaveLoadManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:05:08.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InteractionManager.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\InteractionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\InteractionManager.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\InteractionManager.cs",
+              "RelativeToolTip": "Assets\\InteractionManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwDgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:55:08.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ZombieAttackState.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\ZombieAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\ZombieAttackState.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\ZombieAttackState.cs",
+              "RelativeToolTip": "Assets\\ZombieAttackState.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:24:47.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponManager.cs",
+              "ToolTip": "D:\\the sulis last sunshine\\The Last Sunshine\\Assets\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\WeaponManager.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwGMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:23:39.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

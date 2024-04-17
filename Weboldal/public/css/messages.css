@@ -1,0 +1,95 @@
+::-webkit-scrollbar {
+    width: 10px
+}
+
+::-webkit-scrollbar-track {
+    background: #eee
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555
+}
+
+
+.main {
+    background-color: #eee;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    padding: 6px 0px 0px 0px;
+}
+
+.scroll {
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    height: 100%;
+}
+
+.img1 {
+    border-radius: 50%;
+    background-color: #66BB6A
+}
+
+.name {
+    font-size: 1rem;
+}
+
+.msg {
+    background-color: #fff;
+    font-size: 1rem;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: 500;
+    color: #3e3c3c;
+    word-wrap: break-word;
+
+}
+
+.message-box {
+    max-width: 50%;
+}
+
+.between {
+    font-size: 8px;
+    font-weight: 500;
+    color: #a09e9e
+}
+
+.form-control {
+    font-size: 12px;
+    font-weight: 400;
+    width: 95% !important;
+    height: 30px;
+    border: none
+}
+
+form-control:focus {
+    box-shadow: none;
+    overflow: hidden;
+    border: none
+}
+
+.chat-content {
+    margin-top: 76px;
+    height: 80%;
+}
+
+.self {
+    background-color: rgb(100, 161, 157);
+    color: white;
+}
+
+.guest {
+    background-color: rgb(159, 147, 147);
+    color: white;
+}
+
+.button {
+    outline: none;
+    border: none;
+    background-color: #fff;
+}
