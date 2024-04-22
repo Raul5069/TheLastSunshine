@@ -75,7 +75,7 @@
 
             </div>
             <div class="text-center">
-                <h1 class="text-secondary">Egy másik zombis játékról egy gameplay videó</h1>
+                <h1 class="text-secondary">Itt egy kis gameplay videó a játékunkról</h1>
                 <video  autoplay  muted loop class="" width="700" height="400">
                     <source src="{{asset('assets/Video/zombigameplay.mp4')}}" type="video/mp4">
 

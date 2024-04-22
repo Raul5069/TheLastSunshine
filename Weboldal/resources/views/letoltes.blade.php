@@ -20,7 +20,7 @@
 
                                     <h1 class="mt-3 pt-5"><span>Játékunk</span></h1>
                                     <h2 class="mb-4">Letöltése</h2>
-                                    <p><a href="{{ asset('AJATEK/ZombiShooter.rar') }}" download
+                                    <p><a href="{{ asset('The Last Sunshine 1.0.zip') }}" download
                                             class="btn btn-outline-dark btn-secondary  px-5 py-3 fs-6 fw-bolder me-md-2">Letöltés</a>
                                     </p>
                                 </div>
