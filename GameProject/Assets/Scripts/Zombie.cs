@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -35,11 +36,18 @@ public class Zombie : MonoBehaviour
             SoundManager.Instance.zombieChannel.PlayOneShot(SoundManager.Instance.zombieDeath);
             GetComponentInChildren<Collider>().enabled = false;
             isDead = true;
+            StartCoroutine(Disappier());
         }
         else
         {
             animator.SetTrigger("DAMAGE");
             SoundManager.Instance.zombieChannel2.PlayOneShot(SoundManager.Instance.zombieHurt);
         }
+    }
+
+    private IEnumerator Disappier()
+    {
+        yield return new WaitForSeconds(30f);
+        Destroy(zombiePrefab);
     }
 }

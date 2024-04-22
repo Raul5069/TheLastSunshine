@@ -20,7 +20,9 @@ public class ZombieSpawnerController : MonoBehaviour
     public float cooldownCounter = 0;
 
     public AudioClip bg_music;
+    public AudioClip bg_sounds;
     public AudioSource main_channel;
+    public AudioSource looped_bg_sounds;
 
     public List<Zombie> currentZombiesAlive;
 
@@ -36,6 +38,7 @@ public class ZombieSpawnerController : MonoBehaviour
     private void StartNextWave()
     {
         main_channel.Stop();
+        looped_bg_sounds.PlayOneShot(bg_sounds);
         currentZombiesAlive.Clear();
         currentWave++;
         currentWaveUI.text = currentWave.ToString();
@@ -47,7 +50,7 @@ public class ZombieSpawnerController : MonoBehaviour
     {
         for (int i = 0; i < currentZombiesPerWave; i++)
         {
-            Vector3 spawnOffset = new Vector3(Random.Range(-13f, 13f), 0f, Random.Range(-13f, 13f));
+            Vector3 spawnOffset = new Vector3(Random.Range(-25f, 25f), 0f, Random.Range(-25f, 25f));
             Vector3 spawnPosition = transform.position + spawnOffset;
 
             var zombie = Instantiate(zombiePrefab, spawnPosition, Quaternion.identity);
