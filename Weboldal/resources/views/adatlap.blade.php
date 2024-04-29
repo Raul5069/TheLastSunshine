@@ -56,6 +56,14 @@
                                 <p>{{$row->gender == 'm' ? 'Előretörő' : 'Biztonságos'}}</p>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-md-3 fw-bold fs-5">
+                                <label>A legtöbb túlélt kör:</label>
+                            </div>
+                            <div class="col-md-6 fw-bold">
+                                <p>{{$row->highestwave}}</p>
+                            </div>
+                        </div>
 
 
                     @endforeach

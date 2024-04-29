@@ -80,7 +80,7 @@ class ProfileController extends Controller
         if(Auth::check()){
             return view('felhasznalok',[
                 'result' => profile::select('users.name','profiles.id','profiles.age',
-                                            'profiles.bio','profiles.gender','users.email','profiles.kedvetel')
+                                            'profiles.bio','profiles.gender','users.email','profiles.kedvetel','users.highestwave')
                                            ->join('users','users.id','profiles.userid')
 
                                            ->get()
@@ -101,7 +101,7 @@ class ProfileController extends Controller
         if(Auth::check()){
             return view('adatlap',[
                 'result' => profile::select('users.id','users.name', 'users.email','profiles.age',
-                                            'profiles.bio', 'profiles.gender', 'profiles.telszam','profiles.kedvetel')
+                                            'profiles.bio', 'profiles.gender', 'profiles.telszam','profiles.kedvetel','users.highestwave')
                                             ->join('users','users.id','profiles.userid')
                                             ->where('profiles.id',$id)
                                             ->get()
@@ -116,7 +116,7 @@ class ProfileController extends Controller
 
             return view('sajatprofil',[
                 'result' => profile::select('users.id','users.name','users.email','profiles.age',
-                                            'profiles.bio','profiles.gender','profiles.telszam','profiles.kedvetel')
+                                            'profiles.bio','profiles.gender','profiles.telszam','profiles.kedvetel','users.highestwave')
                                             ->join('users','users.id','profiles.userid')
                                             ->where('profiles.userid',Auth::user()->id)
                                             ->get()

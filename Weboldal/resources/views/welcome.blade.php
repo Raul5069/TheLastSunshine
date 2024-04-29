@@ -49,7 +49,7 @@
                     <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
                         <div class="d-flex justify-content-center">
                             <div class="text-center">
-                                <h1 class="mx-auto my-0 text-uppercase">Zombie Shooter</h1>
+                                <h1 class="mx-auto my-0 text-uppercase">The Last Sunshine</h1>
                                 <h2 class="text-white-50 mx-auto mt-2 mb-5">Ez maga a zombis játék ami egy sima sulis projekt
                                     &#128522;.</h2>
                                 <a class="btn btn-outline-dark btn-secondary  px-5 py-3 fs-6 fw-bolder me-md-2" href="/letoltes">Letöltés</a>
@@ -59,7 +59,7 @@
                 </header>
 
                 <div class="row gx-0 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid" src="{{ asset('assets/images/mini1.webp') }}"
+                    <div class="col-lg-6"><img class="img-fluid" src="{{ asset('assets/images/tps.jpg') }}"
                             style= "width: 100%;" alt="..." /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
@@ -74,7 +74,7 @@
                 </div>
 
                 <div class="row gx-0 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid" src="{{ asset('assets/images/mini3.webp') }}" alt="..." />
+                    <div class="col-lg-6"><img class="img-fluid" src="{{ asset('assets/images/fps.jpg') }}" alt="..." />
                     </div>
                     <div class="col-lg-6 order-lg-first">
                         <div class="bg-black text-center h-100 project">

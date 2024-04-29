@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Zombi Shooter</title>
+    <title>The Last Sunshine</title>
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}">
     <link rel="stylesheet" href="{{ asset('css/styles.css') }}">
@@ -81,7 +81,7 @@
             <li class="nav-item"><a href="/" class="nav-link px-2 text-body-secondary fw-bold">|Home|</a></li>
             <li class="nav-item"><a href="/rolunk" class="nav-link px-2 text-body-secondary fw-bold">|Rólunk|</a></li>
         </ul>
-        <p class="text-center text-body-secondary fw-bold">© 2024 Zombie Shooter, Inc</p>
+        <p class="text-center text-body-secondary fw-bold">© 2024 The Last Sunshine, Inc</p>
     </footer>
 </body>
 

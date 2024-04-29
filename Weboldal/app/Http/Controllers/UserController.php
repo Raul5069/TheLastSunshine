@@ -51,6 +51,7 @@ class UserController extends Controller
         $data->name     = $request->name;
         $data->email    = $request->email;
         $data->password = Hash::make($request->password);
+        $data->highestwave = 0;
         $data->save();
         if(Auth::attempt(['email' => $request->email, 'password' => $request->password])){
             return redirect('/profil');
