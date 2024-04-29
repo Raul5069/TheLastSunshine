@@ -7,7 +7,7 @@ using Random = UnityEngine.Random;
 
 public class ZombieSpawnerController : MonoBehaviour
 {
-    public int initialZombiesPerWave = 5;
+    public int initialZombiesPerWave = 6;
     public int currentZombiesPerWave;
 
     public float spawnDelay = 0.5f;
@@ -106,7 +106,7 @@ public class ZombieSpawnerController : MonoBehaviour
 
         inCoolDown = false;
 
-        currentZombiesPerWave += 5;
+        currentZombiesPerWave += 3;
         StartNextWave();
     }
 }

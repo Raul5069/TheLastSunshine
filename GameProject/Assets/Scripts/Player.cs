@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
@@ -75,14 +76,25 @@ public class Player : MonoBehaviour
     {
         yield return new WaitForSeconds(1f);
         gameOverUI.gameObject.SetActive(true);
-        int waveSurvived = GlobalReferences.Instance.waveNumber;
+        int waveSurvived = GlobalReferences.Instance.waveNumber - 1;
 
-        if(waveSurvived - 1 > SaveLoadManager.Instance.LoadHighestWaves())
+        if(waveSurvived > DBManager.highestwave /*SaveLoadManager.Instance.LoadHighestWaves()*/)
         {
-            SaveLoadManager.Instance.SaveHighestWaves(waveSurvived - 1);
+            DBManager.highestwave = waveSurvived;
+            StartCoroutine(SavePlayerData());
+            //SaveLoadManager.Instance.SaveHighestWaves(waveSurvived - 1);
         }
 
         StartCoroutine(BackToMainMenu());
+    }
+
+    IEnumerator SavePlayerData()
+    {
+        WWWForm form = new WWWForm();
+        form.AddField("id", DBManager.id);
+        form.AddField("highestwave", DBManager.highestwave);
+        WWW www = new WWW("http://localhost/weboldalak/GameAuthentication/highestwave.php", form);
+        yield return www;
     }
 
     private IEnumerator BackToMainMenu()

@@ -5,7 +5,7 @@ using UnityEngine;
 public class SaveLoadManager : MonoBehaviour
 {
     public static SaveLoadManager Instance { get; set; }
-    string highestWaveKey = "sok";
+    string highestWaveKey = DBManager.highestwave.ToString();
 
     private void Awake()
     {

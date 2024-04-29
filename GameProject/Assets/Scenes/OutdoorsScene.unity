@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2159.7688, g: 2263.6292, b: 3286.6333, a: 1}
+  m_IndirectSpecularColor: {r: 2160.4211, g: 2264.6077, b: 3288.0786, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3600,7 +3600,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e113cc21beef6154fb2c1b30f7e644f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialZombiesPerWave: 5
+  initialZombiesPerWave: 6
   currentZombiesPerWave: 0
   spawnDelay: 0.5
   currentWave: 0
@@ -5186,7 +5186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79be0f30d81f8fe41a915efe8c5e55cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mouseSensitivity: 300
+  mouseSensitivity: 100
   topClamp: -90
   bottomClamp: 90
 --- !u!114 &752428404
@@ -5665,7 +5665,7 @@ BoxCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -6535,6 +6535,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5331236726945306947, guid: 7eb7e1cf3f0bf8e4f8218e6860323d4d,
+        type: 3}
+      propertyPath: weaponDamage
+      value: 17
+      objectReference: {fileID: 0}
     - target: {fileID: 9154138111349227804, guid: 7eb7e1cf3f0bf8e4f8218e6860323d4d,
         type: 3}
       propertyPath: m_Name
@@ -6874,7 +6879,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Hull\xE1m"
+  m_text: "K\xF6r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7192,7 +7197,7 @@ Transform:
   m_GameObject: {fileID: 1163687587}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.99, z: 0}
+  m_LocalPosition: {x: 0, y: -1.012, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9578,7 +9583,7 @@ PrefabInstance:
     - target: {fileID: 660975660902733129, guid: b18d7748ac92fcc4c9ab57a330da1b3a,
         type: 3}
       propertyPath: weaponDamage
-      value: 17
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 5046620569874067729, guid: b18d7748ac92fcc4c9ab57a330da1b3a,
         type: 3}
@@ -10041,7 +10046,7 @@ PrefabInstance:
     - target: {fileID: 2183649363905748087, guid: 9080af2da8b4d4444a66ae1845a75a15,
         type: 3}
       propertyPath: weaponDamage
-      value: 21
+      value: 27
       objectReference: {fileID: 0}
     - target: {fileID: 4664889697970344595, guid: 9080af2da8b4d4444a66ae1845a75a15,
         type: 3}
